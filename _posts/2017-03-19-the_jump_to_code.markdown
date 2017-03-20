@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Jump to Code"
-date:   2017-03-19 20:34:07 +0000
+date:   2017-03-19 16:34:08 -0400
 ---
 
 
